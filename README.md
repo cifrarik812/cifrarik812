@@ -25,6 +25,24 @@
 - [RAG-ассистент](https://github.com/cifrarik812/rag-assistant) — поиск по документам и память диалога.
 - [Поиск через n8n](https://github.com/cifrarik812/n8n-knowledge-search) — загрузка базы и ответы через webhook.
 
+## Живые обои для Wallpaper Engine
+
+Два проекта в пиксельной стилистике, опубликованные в Steam Workshop. Для установки нужен Wallpaper Engine.
+
+### [Пиксельный файтинг. Набережная](https://steamcommunity.com/sharedfiles/filedetails/?id=3836758915)
+
+[![Пиксельный файтинг — сцена с двумя бойцами на набережной](https://images.steamusercontent.com/ugc/17531749890581762394/C5A3BDC8435A689A4198F5E0396D66F30DFFC152/)](https://steamcommunity.com/sharedfiles/filedetails/?id=3836758915)
+
+Анимированная пиксельная сцена с двумя бойцами в стойке ожидания. Формат 1920 × 1080, без звука; рекомендуемая частота — 30 кадров/с. Проект собран как сцена Wallpaper Engine. В Workshop обозначен как тестовая версия.
+
+### [Select Your Fighter — Закатная набережная](https://steamcommunity.com/sharedfiles/filedetails/?id=3839762879)
+
+[![Select Your Fighter — пиксельный экран выбора бойца](https://images.steamusercontent.com/ugc/12829968417413665023/FC252DDEDBF3E031441E56E89E6CD29D86C38A3F/)](https://steamcommunity.com/sharedfiles/filedetails/?id=3839762879)
+
+Интерактивные веб-обои: 12 портретов бойцов, выбор щелчком и автоматическая смена персонажей. Есть анимированное появление и пульсирующая рамка P1. В настройках доступны интервал смены, выбор бойца и интенсивность движения портрета. Без звука.
+
+Пиксельная графика для этих проектов создана с помощью ИИ. Проекты показывают работу с визуальными материалами, анимацией и настройками Wallpaper Engine.
+
 ## Инструменты
 
 Python, n8n, GigaChat, ChromaDB, FastEmbed; подготовка промптов и проверочных сценариев.
